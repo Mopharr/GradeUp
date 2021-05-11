@@ -436,3 +436,25 @@ header{
      opacity: 1;
      transform: scale(1.03); 
  }
+
+
+ /* ================= Section Cities ======================== */
+ .section-cities{
+     margin: 20px;
+ }
+ .section{
+    padding: 80px;
+    max-width: 1400px;
+}
+.section-main h2{
+    font-size: 180%;
+     font-weight: 300;
+     text-align: center;
+     margin-bottom: 20px;
+}
+
+
+ .section img{
+    width: 280px;
+    height: 200px;
+ }
